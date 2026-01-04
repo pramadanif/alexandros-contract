@@ -1,0 +1,25 @@
+# Compiler output
+/out
+/cache
+
+# Environment
+.env
+.env.local
+
+# Dependencies
+/lib
+
+# Broadcast logs
+/broadcast
+
+# Coverage
+/coverage
+lcov.info
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
